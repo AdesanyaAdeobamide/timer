@@ -1,0 +1,19 @@
+.box1 {
+    max-width: 300px;
+    margin: auto;
+}
+.iphone-image {
+    width: 100%;
+    height: auto;
+    border-radius: 15px;
+}
+body{
+    background-color: white;
+}
+h1 {
+    color: black;
+    font-size: 40px;
+}
+.word {
+    font-size: 19px;
+}
